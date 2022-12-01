@@ -1,6 +1,6 @@
-# Advent of Code 2021
+# Advent of Code 2022
 
-At this repository you will find my solutions at challenge [_Advent Code 2021_](https://adventofcode.com/2022). 
+At this repository you will find my solutions at challenge [_Advent Code 2022_](https://adventofcode.com/2022). 
 
 The solutions of each day will be uploaded in separated folders. In each folders you will find the input for each puzzle and two differents JavaScript files, each one resolving both problems that are proposed everyday of the challenge.
 
